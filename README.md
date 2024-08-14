@@ -1,5 +1,6 @@
 # orangc's walls
 Yoh! This is my repository of wallpapers which I've collected over the years. A catppuccin-mocha version is available [here](https://github.com/orxngc/walls-catppuccin-mocha).
+\n Disclaimer: These wallpapers are sourced from many, many, many sources on the internet. I did not make any of these, although I have *edited* several of them a little bit. No credit really goes to me in that regard, I'm just the collector.
 # Preview
 | Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
